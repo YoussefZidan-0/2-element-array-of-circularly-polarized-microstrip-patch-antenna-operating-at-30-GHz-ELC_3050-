@@ -1,0 +1,159 @@
+SimValueCacheVersionID=1
+$begin 'SimValueInfos'
+	NextUniqueID=14
+	MoveBackwards=false
+	$begin 'SimValue'
+		ID=0
+		$begin 'SimValueParams'
+			QuantityName='GainTotal'
+			ValueState(90, 15, 0, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=1
+		$begin 'SimValueParams'
+			QuantityName='S(1,1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=2
+		$begin 'SimValueParams'
+			QuantityName='VSWR(1)'
+			ValueState(90, 15, 1, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=3
+		$begin 'SimValueParams'
+			QuantityName='Zo(1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=4
+		$begin 'SimValueParams'
+			QuantityName='Gamma(1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=5
+		$begin 'SimValueParams'
+			QuantityName='rETotal'
+			ValueState(67, 9, 1, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=6
+		$begin 'SimValueParams'
+			QuantityName='SystemGainTotal'
+			ValueState(90, 15, 0, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=7
+		$begin 'SimValueParams'
+			QuantityName='AxialRatioValue'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=8
+		$begin 'SimValueParams'
+			QuantityName='PolarizationRatioCircularLHCP'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=9
+		$begin 'SimValueParams'
+			QuantityName='PolarizationRatioCircularRHCP'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=10
+		$begin 'SimValueParams'
+			QuantityName='DirTotal'
+			ValueState(90, 15, 0, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=11
+		$begin 'SimValueParams'
+			QuantityName='RealizedGainTotal'
+			ValueState(90, 15, 0, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=12
+		$begin 'SimValueParams'
+			QuantityName='Area(GND)'
+			ValueState(235, 35, 1, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=13
+		$begin 'SimValueParams'
+			QuantityName='PeakDirectivity'
+			ValueState(90, 15, 0, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+$end 'SimValueInfos'
+$begin 'SimValueCache'
+	$begin 'DesignMap'
+		DesignID=0
+		$begin 'SolutionMap'
+			$begin 'ContextMap'
+				SolutionID=340
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=341
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=3
+						SimValueContext(0, 0, 2, 0, false, false, 2, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=575
+						$begin 'MinorVVMap'
+							MajorVariation='Depth=\'0.5691mm\' Freq=\'30GHz\' L=\'0.938mm\' Lf=\'1.865mm\' Linput=\'1.5mm\' Lline=\'2.73mm\' Lp=\'2.27mm\' LT=\'0.938mm\' qw=\'2.7mm\' s=\'0.483mm\' Slit_width=\'0.018mm\' subh=\'0.5mm\' subx=\'15mm\' suby=\'15mm\' W0=\'1.876mm\' Wf=\'0.48mm\' Wo=\'1.876mm\' Wp=\'3.37mm\' WT=\'0.48mm\' x_spacing=\'2.72mm\' xp1=\'3.315mm\' xp2=\'9.405mm\' Y_up=\'1.135mm\' yc=\'8.865mm\' yp1=\'3.865mm\' yp2=\'3.865mm\''
+							MinorCacheFile='min260819336173430174596.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=344
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=0
+						SimValueContext(3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=575
+						$begin 'MinorVVMap'
+							MajorVariation='Depth=\'0.5691mm\' L=\'0.938mm\' Lf=\'1.865mm\' Linput=\'1.5mm\' Lline=\'2.73mm\' Lp=\'2.27mm\' LT=\'0.938mm\' qw=\'2.7mm\' s=\'0.483mm\' Slit_width=\'0.018mm\' subh=\'0.5mm\' subx=\'15mm\' suby=\'15mm\' W0=\'1.876mm\' Wf=\'0.48mm\' Wo=\'1.876mm\' Wp=\'3.37mm\' WT=\'0.48mm\' x_spacing=\'2.72mm\' xp1=\'3.315mm\' xp2=\'9.405mm\' Y_up=\'1.135mm\' yc=\'8.865mm\' yp1=\'3.865mm\' yp2=\'3.865mm\''
+							MinorCacheFile='min260819336173430174597.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+			$end 'ContextMap'
+		$end 'SolutionMap'
+	$end 'DesignMap'
+$end 'SimValueCache'
