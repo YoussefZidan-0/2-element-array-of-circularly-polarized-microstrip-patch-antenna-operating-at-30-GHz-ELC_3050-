@@ -1,0 +1,4 @@
+This report presents the design and analysis of a 1×2 antenna array operating at 30 GHz with circular polarization, aimed at applications in satellite communication, millimeter-wave wireless networks, and radar systems. The antenna array is designed to offer enhanced gain, improved directivity, and robust performance. 
+The design incorporates a single-layer substrate with an optimized feed network to ensure circular polarization across the array elements. Simulations are performed to optimize critical parameters, including axial ratio, gain, and return loss. The array configuration enhances the antenna’s radiation characteristics while maintaining a low axial ratio (<3 dB) over the desired frequency band.
+![image](https://github.com/user-attachments/assets/bdbcd4de-8a1a-41c4-8e66-f18005c49821)
+![image](https://github.com/user-attachments/assets/61d2339a-4ff9-4386-9216-d10e12682ca2)
